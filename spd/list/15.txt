@@ -1,7 +1,0 @@
-  - {name: IT_1_@Surfboardv2ray, server: 147.45.51.16, port: 2098, type: vmess, uuid: 83876222-64a4-4912-aa18-b7d9d34959de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: IR_2_@Surfboardv2ray, server: 185.49.231.102, port: 5115, type: vmess, uuid: 48a00d77-ecef-4ea9-8d60-c7ea8ea0ea09, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: DE_3_@Surfboardv2ray, server: 209.38.179.185, port: 41657, type: vmess, uuid: 1c034875-b984-48ab-92c4-ccf4f4ad1846, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: DE_4_@Surfboardv2ray, server: 209.38.179.185, port: 35288, type: vmess, uuid: ccd2b2f2-0106-4e19-9455-9238157bae41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: IR_5_@Surfboardv2ray, server: 31.184.167.105, port: 26763, type: vmess, uuid: 0fb83853-ddf7-4800-b19a-6bc972536a86, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: CA_6_@Surfboardv2ray, server: tradegdt.ai, port: 443, type: vmess, uuid: 39cec18f-a439-427c-9a4e-aeb6fcdf6f53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: yh25hw5j5welan.thelastronin.cloudns.org, network: ws, ws-opts: {path: /linkws/linja05.hwcar.sbs, headers: {Host: yelan.thelastronin.cloudns.org}}}
-  - {name: CA_7_@Surfboardv2ray, server: masjide.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, servername: masjide.org, network: ws, ws-opts: {path: linkvws, headers: {Host: masjide.org}}}
