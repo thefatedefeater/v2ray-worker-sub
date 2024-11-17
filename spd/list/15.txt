@@ -1,1 +1,1 @@
-  - {name: US_1_@Surfboardv2ray, server: 188.114.99.205, port: 443, type: vmess, uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: linde06.indiavideo.sbs, network: ws, ws-opts: {path: /linkws, headers: {Host: linde06.indiavideo.sbs}}}
+  - {name: CA_1_@Surfboardv2ray, server: vivo.com.br, port: 2086, type: vmess, uuid: c183636d-a174-47b9-ccf8-3442e6e1ec81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /t.me/redbullvpnss, headers: {Host: v58.thur.store}}}
